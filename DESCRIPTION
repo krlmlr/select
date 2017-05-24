@@ -1,0 +1,14 @@
+Package: select
+Title: Example for a select generic
+Version: 0.0-0
+Authors@R: person("Kirill", "Müller", role = c("aut", "cre"), email = "krlmlr+r@mailbox.org")
+Description: What about 'select.list'?
+Depends: R (>= 3.4.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Date: 2017-05-24
+BugReports: https://github.com/krlmlr/select/issues
+URL: https://github.com/krlmlr/select, http://krlmlr.github.io/select
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
