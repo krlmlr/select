@@ -3,3 +3,4 @@
 S3method(select,default)
 S3method(select,list)
 export(select)
+export(test_select)
